@@ -1,0 +1,18 @@
+# Sanjeevani – Personal Health Vault
+# Python 3.9+ required
+# Optional: Install Tesseract OCR on system for prescription text extraction
+# Ubuntu: sudo apt install tesseract-ocr
+# macOS: brew install tesseract
+
+Flask
+Flask-Cors
+Flask-Login
+Flask-RESTful
+Flask-SQLAlchemy
+pytesseract   
+opencv-python
+Pillow
+pandas
+numpy
+requests
+python-dotenv
